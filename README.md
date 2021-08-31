@@ -1,5 +1,7 @@
 # PlayBounce
 
+ ![Gameplay image](https://github.com/noobLue/PlayBounce/blob/master/misc/PlayBounce.png?raw=true)
+
 ## Description
 
 PlayBounce is a two player game, where both players try to bounce the ball past the opposing party's paddle. 
@@ -11,6 +13,7 @@ Right player (blue): Move paddle with 'i' and 'k'.
 
 ## Presentations
 
+ ![More gameplay](https://github.com/noobLue/PlayBounce/blob/master/misc/PlayBounce.gif?raw=true)
 
 
 ## Build steps
