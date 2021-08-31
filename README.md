@@ -8,9 +8,9 @@ PlayBounce is a two player game, where both players try to bounce the ball past 
 
 ## Controls
 
-Left player (red): Move paddle with 'w' and 's'.
+Left player (red): Move paddle with W and S.
 
-Right player (blue): Move paddle with 'i' and 'k'.
+Right player (blue): Move paddle with I and K.
 
 ## Build steps
 
