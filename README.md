@@ -29,11 +29,9 @@ Right player (blue): Move paddle with I and K.
 * Note: You need to have Visual Studio 2019 installed to follow the instructions below:*
 
 
-1. Clone the repository with the following command
+1. Clone the repository with the following command (or alternatively download the repository as a zip file through github)
 
 ```git clone https://github.com/noobLue/PlayBounce```
-
-    or alternatively download the repository as a zip file through github
 
 2. Open the solution in Visual Studio 2019
 
